@@ -1,7 +1,7 @@
 {
-  "name": "type-potato",
-  "homepage": "https://raimopew.github.io/type-potato",
+  "name": "rakenduste-programmeerimine-madis-valliste-2",
   "version": "0.1.0",
+  "homepage": "https://MadisV.github.io/rakenduste-programmeerimine-madis-valliste-2",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.3",
@@ -48,6 +48,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.1.1",
+    "prettier": "^3.3.3"
   }
 }
